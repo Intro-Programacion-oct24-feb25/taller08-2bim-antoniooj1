@@ -20,7 +20,7 @@ public class Problema03 {
                 
                 System.out.printf("%s", "*");
             }
-            System.out.println("\n");
+            System.out.println("");
          }
             
                 
@@ -29,7 +29,7 @@ public class Problema03 {
                 
                 System.out.printf("%s", "*");
             }
-            System.out.println("\n");
+            System.out.println("");
         }
         
         
