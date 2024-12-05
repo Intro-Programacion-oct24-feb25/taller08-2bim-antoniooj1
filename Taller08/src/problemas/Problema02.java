@@ -15,6 +15,16 @@ public class Problema02 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-    }
-    
+    int contador=0; 
+
+        for (double f = 20; f <= 100; f+=4) { 
+            double c = (5.00/9.00)*(f-32);
+            System.out.printf("Operación(%d) Fahrenheit: %.2f ===> "
+                    + "Celcius: %.2f\n", contador , f , c);
+             contador = contador + 1;
+
+            
+                
+        }
+     }
 }
